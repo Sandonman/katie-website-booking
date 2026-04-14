@@ -1,6 +1,13 @@
 body {
+    background-color: #f3f4f6; /* Light gray background */
     font-family: 'Helvetica Neue', sans-serif;
-    background-color: #fdfdfd;
+    background-color: #f3f4f6; /* Light gray background */
+
+header {
+    background-color: #f39c12; /* Bright orange */
+    padding: 20px;
+    text-align: center;
+}
     color: #333;
 }
 header {
