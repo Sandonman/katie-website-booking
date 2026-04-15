@@ -1,6 +1,6 @@
 :root {
   --bg: #fbfaf8;
-  --text: #111318;
+  --text: #1F2933; /* Charcoal */
   --muted: #5f6470;
   --panel: #ffffff;
   --line: #e8e3db;
@@ -13,11 +13,13 @@ html, body { margin: 0; padding: 0; }
 body {
   font-family: 'Manrope', system-ui, sans-serif;
   color: var(--text);
-  background: var(--bg);
+  background: #FCF4D2; /* Cream background */
   line-height: 1.6;
 }
 .container { width: min(1120px, 92vw); margin: 0 auto; }
 header {
+    background-color: #FCF4D2; /* Cream */
+
   background-color: #f39c12; /* Bright orange */
   padding: 20px;
   text-align: center;
@@ -33,3 +35,4 @@ nav a {
 .section-head h2 { margin: 0 0 8px; }
 .section-head p { margin-top: 0; color: var(--muted); }
 footer { padding: 26px 0; }
+0; }
