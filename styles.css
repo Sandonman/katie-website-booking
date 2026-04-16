@@ -21,7 +21,7 @@ header {
     background-color: #36E3A7; /* Teal background for header */
     background-color: #FCF4D2; /* Cream */
 
-  background-color: #f39c12; /* Bright orange */
+  background-color: #36E3A7; /* Teal for header */
   padding: 20px;
   text-align: center;
 }
@@ -36,4 +36,6 @@ nav a {
 .section-head h2 { margin: 0 0 8px; }
 .section-head p { margin-top: 0; color: #4B5563; /* Muted Gray */ }
 footer { padding: 26px 0; }
+0; }
+ng: 26px 0; }
 0; }
