@@ -4,7 +4,7 @@
   --muted: #36E3A7; /* New Teal */ /* Muted Gray for secondary text */
   --panel: #ffffff;
   --line: #e8e3db;
-  --gold: #b89353;
+  --gold: #C85F55; /* Coral for primary accent */
   --charcoal: #171a21;
   --shadow: 0 14px 34px rgba(16, 18, 24, 0.08);
 }
@@ -18,6 +18,7 @@ body {
 }
 .container { width: min(1120px, 92vw); margin: 0 auto; }
 header {
+    background-color: #36E3A7; /* Teal background for header */
     background-color: #FCF4D2; /* Cream */
 
   background-color: #f39c12; /* Bright orange */
