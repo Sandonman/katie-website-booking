@@ -13,7 +13,7 @@ html, body { margin: 0; padding: 0; }
 body {
   font-family: 'Manrope', system-ui, sans-serif;
   color: var(--text);
-  background: #FCF4D2; /* Cream background */
+  background: #FFF940; /* Yellow background */
   line-height: 1.6;
 }
 .container { width: min(1120px, 92vw); margin: 0 auto; }
